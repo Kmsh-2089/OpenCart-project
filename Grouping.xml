@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MasterSuite">
+
+<listeners>
+	<listener class-name="utilities.Extents_report_manager"/>
+</listeners>
+
+ <groups>
+	 <run>
+	 	<include name="Master"/>
+	 	<!-- <include name="Regression"/>-->
+		<!-- <include name="DDT"/>-->
+		<!--  <exclude name="sanity"/>-->
+	 </run>
+ 
+ </groups>
+ 
+  <test thread-count="5" name="Test">
+ 	 <parameter name="os" value="windows"/> 
+	 <parameter name="browser" value="chrome"/>
+	 
+	 
+    <classes>
+    	<class name="testcases.tc001_AccountRegistrationTest"/> 
+        <class name="testcases.tc002_account_login"/>
+        <class name="testcases.tc003_loginDDT"/> 
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

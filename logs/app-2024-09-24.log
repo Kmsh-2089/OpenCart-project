@@ -1,0 +1,103 @@
+2024-09-24 15:39:00 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\vaidy\eclipse-workspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2024-09-24 15:39:00 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaidy\eclipse-workspace\opencart\master.xml
+
+2024-09-24 15:39:04 [main] INFO  testcases.tc001_AccountRegistrationTest - *** Starting tc001_AccountRegistrationTest***
+2024-09-24 15:39:05 [main] INFO  testcases.tc001_AccountRegistrationTest - cliked on my account
+2024-09-24 15:39:05 [main] INFO  testcases.tc001_AccountRegistrationTest - cliked on my register
+2024-09-24 15:39:05 [main] INFO  testcases.tc001_AccountRegistrationTest - providing customer information
+2024-09-24 15:39:07 [main] INFO  testcases.tc001_AccountRegistrationTest - valiadating the massage
+2024-09-24 15:39:07 [main] INFO  testcases.tc001_AccountRegistrationTest - *** Finished tc001_AccountRegistrationTest***
+2024-09-24 15:42:21 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\vaidy\eclipse-workspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2024-09-24 15:42:21 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaidy\eclipse-workspace\opencart\master.xml
+
+2024-09-24 15:42:28 [main] INFO  testcases.tc003_loginDDT - *** STARTING TC003_LOGINddt****
+2024-09-24 15:42:30 [main] INFO  testcases.tc003_loginDDT - *** FINISHED TC003_LOGINddt****
+2024-09-24 15:42:30 [main] INFO  testcases.tc003_loginDDT - *** STARTING TC003_LOGINddt****
+2024-09-24 15:42:41 [main] INFO  testcases.tc003_loginDDT - *** FINISHED TC003_LOGINddt****
+2024-09-24 15:42:41 [main] INFO  testcases.tc003_loginDDT - *** STARTING TC003_LOGINddt****
+2024-09-24 15:42:53 [main] INFO  testcases.tc003_loginDDT - *** FINISHED TC003_LOGINddt****
+2024-09-24 18:31:42 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\vaidy\eclipse-workspace\opencart\Grouping.xml] otherwise TestNG may fail or not work as expected.
+2024-09-24 18:31:43 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaidy\eclipse-workspace\opencart\Grouping.xml
+
+2024-09-24 18:34:17 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\vaidy\eclipse-workspace\opencart\Grouping.xml] otherwise TestNG may fail or not work as expected.
+2024-09-24 18:34:18 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaidy\eclipse-workspace\opencart\Grouping.xml
+
+2024-09-24 18:34:24 [main] INFO  testcases.tc001_AccountRegistrationTest - *** Starting tc001_AccountRegistrationTest***
+2024-09-24 18:34:25 [main] INFO  testcases.tc001_AccountRegistrationTest - cliked on my account
+2024-09-24 18:34:26 [main] INFO  testcases.tc001_AccountRegistrationTest - cliked on my register
+2024-09-24 18:34:26 [main] INFO  testcases.tc001_AccountRegistrationTest - providing customer information
+2024-09-24 18:34:28 [main] INFO  testcases.tc001_AccountRegistrationTest - valiadating the massage
+2024-09-24 18:34:28 [main] INFO  testcases.tc001_AccountRegistrationTest - *** Finished tc001_AccountRegistrationTest***
+2024-09-24 18:34:31 [main] INFO  testcases.tc002_account_login - ***starting tc002_account_login test***
+2024-09-24 18:35:55 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\vaidy\eclipse-workspace\opencart\Grouping.xml] otherwise TestNG may fail or not work as expected.
+2024-09-24 18:35:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaidy\eclipse-workspace\opencart\Grouping.xml
+
+2024-09-24 18:36:43 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\vaidy\eclipse-workspace\opencart\Grouping.xml] otherwise TestNG may fail or not work as expected.
+2024-09-24 18:36:43 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaidy\eclipse-workspace\opencart\Grouping.xml
+
+2024-09-24 18:38:36 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\vaidy\eclipse-workspace\opencart\Grouping.xml] otherwise TestNG may fail or not work as expected.
+2024-09-24 18:38:37 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaidy\eclipse-workspace\opencart\Grouping.xml
+
+2024-09-24 18:38:54 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\vaidy\eclipse-workspace\opencart\Grouping.xml] otherwise TestNG may fail or not work as expected.
+2024-09-24 18:38:55 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaidy\eclipse-workspace\opencart\Grouping.xml
+
+2024-09-24 18:39:58 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\vaidy\eclipse-workspace\opencart\Grouping.xml] otherwise TestNG may fail or not work as expected.
+2024-09-24 18:39:59 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaidy\eclipse-workspace\opencart\Grouping.xml
+
+2024-09-24 18:40:36 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\vaidy\eclipse-workspace\opencart\Grouping.xml] otherwise TestNG may fail or not work as expected.
+2024-09-24 18:40:36 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaidy\eclipse-workspace\opencart\Grouping.xml
+
+2024-09-24 18:40:40 [main] INFO  testcases.tc002_account_login - ***starting tc002_account_login test***
+2024-09-24 18:40:44 [main] INFO  testcases.tc002_account_login - ***Finishied tc002_account_login test***
+2024-09-24 18:49:05 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\vaidy\eclipse-workspace\opencart\Grouping.xml] otherwise TestNG may fail or not work as expected.
+2024-09-24 18:49:06 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaidy\eclipse-workspace\opencart\Grouping.xml
+
+2024-09-24 18:49:10 [main] INFO  testcases.tc001_AccountRegistrationTest - *** Starting tc001_AccountRegistrationTest***
+2024-09-24 18:49:11 [main] INFO  testcases.tc001_AccountRegistrationTest - cliked on my account
+2024-09-24 18:49:11 [main] INFO  testcases.tc001_AccountRegistrationTest - cliked on my register
+2024-09-24 18:49:11 [main] INFO  testcases.tc001_AccountRegistrationTest - providing customer information
+2024-09-24 18:49:13 [main] INFO  testcases.tc001_AccountRegistrationTest - valiadating the massage
+2024-09-24 18:49:13 [main] INFO  testcases.tc001_AccountRegistrationTest - *** Finished tc001_AccountRegistrationTest***
+2024-09-24 18:49:16 [main] INFO  testcases.tc002_account_login - ***starting tc002_account_login test***
+2024-09-24 18:49:18 [main] INFO  testcases.tc002_account_login - ***Finishied tc002_account_login test***
+2024-09-24 18:54:21 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\vaidy\eclipse-workspace\opencart\Grouping.xml] otherwise TestNG may fail or not work as expected.
+2024-09-24 18:54:21 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaidy\eclipse-workspace\opencart\Grouping.xml
+
+2024-09-24 18:54:26 [main] INFO  testcases.tc001_AccountRegistrationTest - *** Starting tc001_AccountRegistrationTest***
+2024-09-24 18:54:27 [main] INFO  testcases.tc001_AccountRegistrationTest - cliked on my account
+2024-09-24 18:54:27 [main] INFO  testcases.tc001_AccountRegistrationTest - cliked on my register
+2024-09-24 18:54:27 [main] INFO  testcases.tc001_AccountRegistrationTest - providing customer information
+2024-09-24 18:54:29 [main] INFO  testcases.tc001_AccountRegistrationTest - valiadating the massage
+2024-09-24 18:54:29 [main] INFO  testcases.tc001_AccountRegistrationTest - *** Finished tc001_AccountRegistrationTest***
+2024-09-24 18:54:32 [main] INFO  testcases.tc002_account_login - ***starting tc002_account_login test***
+2024-09-24 18:54:34 [main] INFO  testcases.tc002_account_login - ***Finishied tc002_account_login test***
+2024-09-24 18:57:06 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\vaidy\eclipse-workspace\opencart\Grouping.xml] otherwise TestNG may fail or not work as expected.
+2024-09-24 18:57:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaidy\eclipse-workspace\opencart\Grouping.xml
+
+2024-09-24 18:57:10 [main] INFO  testcases.tc001_AccountRegistrationTest - *** Starting tc001_AccountRegistrationTest***
+2024-09-24 18:57:11 [main] INFO  testcases.tc001_AccountRegistrationTest - cliked on my account
+2024-09-24 18:57:12 [main] INFO  testcases.tc001_AccountRegistrationTest - cliked on my register
+2024-09-24 18:57:12 [main] INFO  testcases.tc001_AccountRegistrationTest - providing customer information
+2024-09-24 18:57:14 [main] INFO  testcases.tc001_AccountRegistrationTest - valiadating the massage
+2024-09-24 18:57:14 [main] INFO  testcases.tc001_AccountRegistrationTest - *** Finished tc001_AccountRegistrationTest***
+2024-09-24 18:57:17 [main] INFO  testcases.tc002_account_login - ***starting tc002_account_login test***
+2024-09-24 18:57:19 [main] INFO  testcases.tc002_account_login - ***Finishied tc002_account_login test***
+2024-09-24 18:57:23 [main] INFO  testcases.tc003_loginDDT - *** STARTING TC003_LOGINddt****
+2024-09-24 18:57:25 [main] INFO  testcases.tc003_loginDDT - *** FINISHED TC003_LOGINddt****
+2024-09-24 18:57:25 [main] INFO  testcases.tc003_loginDDT - *** STARTING TC003_LOGINddt****
+2024-09-24 18:57:37 [main] INFO  testcases.tc003_loginDDT - *** FINISHED TC003_LOGINddt****
+2024-09-24 18:57:37 [main] INFO  testcases.tc003_loginDDT - *** STARTING TC003_LOGINddt****
+2024-09-24 18:57:48 [main] INFO  testcases.tc003_loginDDT - *** FINISHED TC003_LOGINddt****

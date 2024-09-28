@@ -1,0 +1,39 @@
+2024-09-28 12:52:41 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\vaidy\eclipse-workspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2024-09-28 12:52:42 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaidy\eclipse-workspace\opencart\master.xml
+
+2024-09-28 12:52:48 [main] INFO  testcases.tc001_AccountRegistrationTest - *** Starting tc001_AccountRegistrationTest***
+2024-09-28 12:52:49 [main] INFO  testcases.tc001_AccountRegistrationTest - cliked on my account
+2024-09-28 12:52:50 [main] INFO  testcases.tc001_AccountRegistrationTest - cliked on my register
+2024-09-28 12:52:50 [main] INFO  testcases.tc001_AccountRegistrationTest - providing customer information
+2024-09-28 12:52:52 [main] INFO  testcases.tc001_AccountRegistrationTest - valiadating the massage
+2024-09-28 12:52:52 [main] INFO  testcases.tc001_AccountRegistrationTest - *** Finished tc001_AccountRegistrationTest***
+2024-09-28 12:52:55 [main] INFO  testcases.tc002_account_login - ***starting tc002_account_login test***
+2024-09-28 12:52:57 [main] INFO  testcases.tc002_account_login - ***Finishied tc002_account_login test***
+2024-09-28 16:50:58 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\vaidy\eclipse-workspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2024-09-28 16:51:05 [main] INFO  testcases.tc001_AccountRegistrationTest - *** Starting tc001_AccountRegistrationTest***
+2024-09-28 16:51:06 [main] INFO  testcases.tc001_AccountRegistrationTest - cliked on my account
+2024-09-28 16:51:07 [main] INFO  testcases.tc001_AccountRegistrationTest - cliked on my register
+2024-09-28 16:51:07 [main] INFO  testcases.tc001_AccountRegistrationTest - providing customer information
+2024-09-28 16:51:09 [main] INFO  testcases.tc001_AccountRegistrationTest - valiadating the massage
+2024-09-28 16:51:09 [main] INFO  testcases.tc001_AccountRegistrationTest - *** Finished tc001_AccountRegistrationTest***
+2024-09-28 16:51:12 [main] INFO  testcases.tc002_account_login - ***starting tc002_account_login test***
+2024-09-28 16:51:14 [main] INFO  testcases.tc002_account_login - ***Finishied tc002_account_login test***
+2024-09-28 17:12:08 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\vaidy\eclipse-workspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2024-09-28 17:12:14 [main] INFO  testcases.tc001_AccountRegistrationTest - *** Starting tc001_AccountRegistrationTest***
+2024-09-28 17:12:15 [main] INFO  testcases.tc001_AccountRegistrationTest - cliked on my account
+2024-09-28 17:12:16 [main] INFO  testcases.tc001_AccountRegistrationTest - cliked on my register
+2024-09-28 17:12:16 [main] INFO  testcases.tc001_AccountRegistrationTest - providing customer information
+2024-09-28 17:12:19 [main] INFO  testcases.tc001_AccountRegistrationTest - valiadating the massage
+2024-09-28 17:12:19 [main] INFO  testcases.tc001_AccountRegistrationTest - *** Finished tc001_AccountRegistrationTest***
+2024-09-28 17:12:22 [main] INFO  testcases.tc002_account_login - ***starting tc002_account_login test***
+2024-09-28 17:12:25 [main] INFO  testcases.tc002_account_login - ***Finishied tc002_account_login test***
+2024-09-28 17:22:32 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\vaidy\eclipse-workspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2024-09-28 17:22:39 [main] INFO  testcases.tc001_AccountRegistrationTest - *** Starting tc001_AccountRegistrationTest***
+2024-09-28 17:22:40 [main] INFO  testcases.tc001_AccountRegistrationTest - cliked on my account
+2024-09-28 17:22:41 [main] INFO  testcases.tc001_AccountRegistrationTest - cliked on my register
+2024-09-28 17:22:41 [main] INFO  testcases.tc001_AccountRegistrationTest - providing customer information
+2024-09-28 17:22:44 [main] INFO  testcases.tc001_AccountRegistrationTest - valiadating the massage
+2024-09-28 17:22:44 [main] INFO  testcases.tc001_AccountRegistrationTest - *** Finished tc001_AccountRegistrationTest***
+2024-09-28 17:22:48 [main] INFO  testcases.tc002_account_login - ***starting tc002_account_login test***
+2024-09-28 17:22:51 [main] INFO  testcases.tc002_account_login - ***Finishied tc002_account_login test***
